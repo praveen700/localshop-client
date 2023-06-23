@@ -1,0 +1,18 @@
+.left-block {
+    flex-basis: 20%;
+    max-width: 25%;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    min-width: 1030px;
+    min-height: 400px;
+    margin-top: 24px;
+    margin-bottom: 10%;
+}
+
+.right-product {
+    display: flex;
+    flex-wrap: wrap;
+}
